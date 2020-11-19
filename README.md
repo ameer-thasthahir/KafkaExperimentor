@@ -1,5 +1,5 @@
 # KafkaExperimentor
-Apache Kafka Experiment in .Net
+Apache Kafka Hello world Example in .Net for beginners
 
 Complete detail in below blog 
 
