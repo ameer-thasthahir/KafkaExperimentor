@@ -1,5 +1,5 @@
 # KafkaExperimentor
-Apache Kafka Hello world Example in .Net for beginners
+Apache Kafka Hello world Example in C# for beginners
 
 Complete detail in below blog 
 
